@@ -7,8 +7,7 @@ class Add{
         Integer sum=0;
         for (int i=0;i<numbers.length;++i) {
             Integer number=numbers[i];
-            System.out.print(number);
-            System.out.print((i==numbers.length-1)?"":"+");
+            System.out.print(number + ((i==numbers.length-1)?"":"+") );
             sum+=number;
         }
         System.out.println("="+sum);
