@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6724c0a3-8c97-49c4-8cb6-0c7099637ad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/aitbahaa/hackerrank/JavaReflectionAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/aitbahaa/hackerrank/CanYouAccess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +32,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.JavaReflectionAttributes">
-    <configuration name="JavaReflectionAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.aitbahaa.hackerrank.JavaReflectionAttributes" />
+  <component name="RunManager" selected="Application.CanYouAccess">
+    <configuration name="CanYouAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.aitbahaa.hackerrank.CanYouAccess" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -46,12 +46,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="me.aitbahaa.hackerrank.JavaCurrencyFormatter" />
+    <configuration name="JavaReflectionAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.aitbahaa.hackerrank.JavaReflectionAttributes" />
       <module name="untitled" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.aitbahaa.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,18 +85,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.aitbahaa.hackerrank.Solution" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.aitbahaa.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.SimpleQdditionVarargs" />
       <item itemvalue="Application.SimpleAdditionVarargs" />
       <item itemvalue="Application.JavaReflectionAttributes" />
+      <item itemvalue="Application.CanYouAccess" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CanYouAccess" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.JavaReflectionAttributes" />
         <item itemvalue="Application.SimpleAdditionVarargs" />
         <item itemvalue="Application.SimpleQdditionVarargs" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579009255102</updated>
-      <workItem from="1579009256396" duration="5207000" />
+      <workItem from="1579009256396" duration="13838000" />
     </task>
     <servers />
   </component>
@@ -127,22 +145,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="977" height="203" key="GridCell.Tab.0.bottom" timestamp="1579017373740">
+    <state width="1262" height="203" key="GridCell.Tab.0.bottom" timestamp="1579170844395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579017373740" />
-    <state width="977" height="203" key="GridCell.Tab.0.center" timestamp="1579017373740">
+    <state width="1262" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579170844395" />
+    <state width="1262" height="203" key="GridCell.Tab.0.center" timestamp="1579170844395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579017373740" />
-    <state width="977" height="203" key="GridCell.Tab.0.left" timestamp="1579017373740">
+    <state width="1262" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579170844395" />
+    <state width="1262" height="203" key="GridCell.Tab.0.left" timestamp="1579170844395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579017373740" />
-    <state width="977" height="203" key="GridCell.Tab.0.right" timestamp="1579017373740">
+    <state width="1262" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579170844395" />
+    <state width="1262" height="203" key="GridCell.Tab.0.right" timestamp="1579170844395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="977" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579017373740" />
+    <state width="1262" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579170844395" />
+    <state width="1262" height="253" key="GridCell.Tab.1.bottom" timestamp="1579170487365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579170487365" />
+    <state width="1262" height="253" key="GridCell.Tab.1.center" timestamp="1579170487365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="253" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579170487365" />
+    <state width="1262" height="253" key="GridCell.Tab.1.left" timestamp="1579170487365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="253" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579170487365" />
+    <state width="1262" height="253" key="GridCell.Tab.1.right" timestamp="1579170487365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1262" height="253" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579170487365" />
     <state x="857" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1579009567920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
